@@ -1,0 +1,44 @@
+[
+  {
+    "id":1,
+    "title":"Dell xps",
+    "price":12000000,
+    "imgUrl":"https://res.cloudinary.com/dewaqintoro/image/upload/v1603978517/product/lenovo_smxytl.png"
+  },
+  {
+    "id":2,
+    "title":"Lenovo xps",
+    "price":22000000,
+    "imgUrl":"https://res.cloudinary.com/dewaqintoro/image/upload/v1603978517/product/Hero_r3xxsz.png"
+  },
+  {
+    "id":3,
+    "title":"Asus",
+    "price":42000000,
+    "imgUrl":"https://res.cloudinary.com/dewaqintoro/image/upload/v1603978516/product/iphonex_bkcm57.jpg"
+  },
+  {
+    "id":4,
+    "title":"XP",
+    "price":2000000,
+    "imgUrl":"https://res.cloudinary.com/dewaqintoro/image/upload/v1603978517/product/lenovo_smxytl.png"
+  },
+  {
+    "id":5,
+    "title":"XP",
+    "price":2000000,
+    "imgUrl":"https://res.cloudinary.com/dewaqintoro/image/upload/v1603978517/product/lenovo_smxytl.png"
+  },
+  {
+    "id":6,
+    "title":"XP",
+    "price":2000000,
+    "imgUrl":"https://res.cloudinary.com/dewaqintoro/image/upload/v1603978517/product/lenovo_smxytl.png"
+  },
+  {
+    "id":7,
+    "title":"legion",
+    "price":2000000,
+    "imgUrl":"https://res.cloudinary.com/dewaqintoro/image/upload/v1603978517/product/lenovo_smxytl.png"
+  }
+]
